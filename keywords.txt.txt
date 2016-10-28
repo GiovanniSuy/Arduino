@@ -1,0 +1,7 @@
+Potenciometro	KEYWORD2
+getValor	KEYWORD2
+getValor	KEYWORD2
+getSetor	KEYWORD2
+getSetores	KEYWORD2
+getDescricaoSetor	KEYWORD2
+getDescricaoSetores	KEYWORD2
